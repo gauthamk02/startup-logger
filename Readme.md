@@ -2,7 +2,7 @@
 
 The program logs the number of times the device boots into a CSV file named `Record.csv`. The programs adds a record consisting of Serial number, Date and Time of booting to the end of CSV file everytime the device boots. On the first run `Record.csv` will be auto created with necessary table headers. 
 
-The code is written in `C++17` and will not work in previous versions as the function `std::filesystem::exists()` used on line 16 was added in this version. To compile the code on `C++14`, `std::experimental::filesystem::v1::exists();` must be used instead.
+The code is written in `C++17` and will not work in previous versions as the function `std::filesystem::exists()` used on line 16 was added in this version. To compile the code on `C++14`, `std::experimental::filesystem::v1::exists()` must be used instead.
 
 ### Setting up the program 
 
