@@ -11,8 +11,8 @@ The code is written in `C++17` and will not work in previous versions as the fun
     - Predd Windows logo key + R and enter shell:startup.
     - Copy the shortcut to the program into the opened folder.
 
-    Refer [this]("https://support.microsoft.com/en-us/windows/add-an-app-to-run-automatically-at-startup-in-windows-10-150da165-dcd9-7230-517b-cf3c295d89dd") article to learn more.
+    Refer [this](https://support.microsoft.com/en-us/windows/add-an-app-to-run-automatically-at-startup-in-windows-10-150da165-dcd9-7230-517b-cf3c295d89dd) article to learn more.
 
 2. On Ubuntu
 
-    Refer [this]("https://itsfoss.com/manage-startup-applications-ubuntu/") article to setup the program to run on start up in Ubuntu.
+    Refer [this](https://itsfoss.com/manage-startup-applications-ubuntu/) article to setup the program to run on start up in Ubuntu.
