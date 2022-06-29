@@ -8,7 +8,7 @@ The code is written in `C++17` and will not work in previous versions as the fun
 
 1. On Windows
     - Compile the code and save the program in the desired folder.
-    - Predd Windows logo key + R and enter shell:startup.
+    - Press Windows logo key + R and enter shell:startup.
     - Copy the shortcut to the program into the opened folder.
 
     Refer [this](https://support.microsoft.com/en-us/windows/add-an-app-to-run-automatically-at-startup-in-windows-10-150da165-dcd9-7230-517b-cf3c295d89dd) article to learn more.
